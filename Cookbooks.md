@@ -1,6 +1,6 @@
 # Cookbooks
 
-Please see the [Wiki](https://github.com/GeoEraGIP-WP8/Cookbooks/wiki) above for the cookbooks
+Please see the [Wiki](https://github.com/GeoEra-GIP/WP8-Support/wiki) above for the cookbooks
 
 ## Task 8.1. Write a series of cookbooks to assist data providers in the utilisation of available standards to share GSP generated data. (NERC, ISPRA, GEUS, GEOZS, CGS, RBINS, GeoInform, NGU, HGI-CGS)
 
