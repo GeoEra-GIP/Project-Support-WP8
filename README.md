@@ -29,7 +29,7 @@ To build on data provider support provided in previous data sharing and interope
 
 ## Tasks
 
-[8.1 Cookbooks](../blob/master/Cookbooks.md)
+[8.1 Cookbooks](../Cookbooks.md)
 
 [8.2 Create e-Learning resources](../blob/master/e-Learning.md)
 
