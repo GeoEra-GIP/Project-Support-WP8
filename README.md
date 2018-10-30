@@ -15,7 +15,7 @@ Participants:
 | 9 | ISPRA | 4.0 |
 | 11 | NGU | 4.0 |
 | 12 | RBINS | 2.0 |
-| 15 | GeiInform | 2.0 |
+| 15 | GeoInform | 2.0 |
 | 23 | HGI-CGS | 4.0 |
 
 
