@@ -20,10 +20,10 @@ See [here](https://help.github.com/articles/creating-an-issue/) for a guide on r
 
 [WP8 Summary](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Summary.md)
 
-[8.1 Cookbooks](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Cookbooks.md)
+- [8.1 Cookbooks](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Cookbooks.md)
 
-[8.2 Create e-Learning resources](https://github.com/GeoEra-GIP/WP8-Support/blob/master/e-Learning.md)
+- [8.2 Create e-Learning resources](https://github.com/GeoEra-GIP/WP8-Support/blob/master/e-Learning.md)
 
-[8.3 Create suite of data provider support systems](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Support.md)
+- [8.3 Create suite of data provider support systems](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Support.md)
 
-[8.4 Containerisation](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Containerisation.md)
+- [8.4 Containerisation](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Containerisation.md)
