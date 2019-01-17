@@ -6,11 +6,18 @@ Provided by: UKRI, GEUS, TNO, GeoZS, CGS, BRGM, NERC, ISPRA, NGU, RBINS, GeoInfo
 
 We aim to empower the GeoERA Science Projects to disseminate and integrate data, information, interpretations and models resulting from their activities in a standards-based and interoperable manner through the GIP.
 
-To do this we will be providing a suite of support tools, channels and activities to facilitate data sharing through the GIP including the generation of cookbooks, provision of buddy systems and mentoring networks, creation of eLearning resources and delivery of training workshops.
+To do this we will be providing a suite of support tools, channels and activities to facilitate data sharing through the GIP including the generation of 
+- Cookbooks 
+- Provision of buddy systems
+- Mentoring networks
+- Creation of eLearning resources
+- Delivery of training workshops.
 
 ## Support
 
-Support is initally to be offered via email helpdesk or raising issues via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues). If issues are raised multiple times we will pin these on the issues page to form an FAQ. 
+Cookbook documentation will published to https://geoera-gip.github.io/WP8-Support/ 
+
+Direct support is initally to be offered via email helpdesk or raising issues via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues). If issues are raised multiple times we will pin these on the issues page to form an FAQ. 
 
 ### Using the issue tracker
 
