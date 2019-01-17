@@ -14,7 +14,7 @@ Support is initally to be offered via email helpdesk or raising issues via the [
 
 ### Using the issue tracker
 
-See [here](https://help.github.com/articles/creating-an-issue/) for a guide on raising an issue. If possible please use the "Lables" function on the right hand side when creating an issue to flag as question/help wanted/enhancement etc.     
+See [here](https://help.github.com/articles/creating-an-issue/) for a guide on raising an issue. If possible please use the "Labels" function on the right hand side when creating an issue to flag as question/help wanted/enhancement etc.     
 
 ## Project & Task Description
 
