@@ -1,33 +1,24 @@
-# Work Package No: 8, Data provider support, Lead beneficiary: NERC
+# GeoERA Data provider support
 
-Start month; 7, End Month 36.
-
-Participants:
-
-| Partner No. | Partner | Man Months |
-| ---------- | :-----: | --------: |
-| 1 | GEUS | 2.0 |
-| 3 | TNO | 1.5 |
-| 5 | GeoZS | 6.0 |
-| 6 | CGS | 4.0 |
-| 7 | BRGM | 2.0 |
-| 8 | NERC | 11.0 |
-| 9 | ISPRA | 4.0 |
-| 11 | NGU | 4.0 |
-| 12 | RBINS | 2.0 |
-| 15 | GeoInform | 2.0 |
-| 23 | HGI-CGS | 4.0 |
-
+Provided by: UKRI, GEUS, TNO, GeoZS, CGS, BRGM, NERC, ISPRA, NGU, RBINS, GeoInform, HGI-CGS, 
 
 ## Objectives
 
-To empower the GSPs to disseminate and integrate data, information, interpretations and models resulting from their activities in a standards-based and interoperable manner through the GIP.
+We aim to empower the GeoERA Science Projects to disseminate and integrate data, information, interpretations and models resulting from their activities in a standards-based and interoperable manner through the GIP.
 
-To provide a suite of support tools, channels and activities to facilitate data sharing through the GIP including the generation of cookbooks, provision of buddy systems and mentoring networks, creation of eLearning resources and delivery of training workshops.
+To do this we will be providing a suite of support tools, channels and activities to facilitate data sharing through the GIP including the generation of cookbooks, provision of buddy systems and mentoring networks, creation of eLearning resources and delivery of training workshops.
 
-To build on data provider support provided in previous data sharing and interoperability projects such as OneGeology and EGDI by extending with new, novel support functions.
+## Support
 
-## Tasks
+Support is initally to be offered via email helpdesk or raising issues via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues). If issues are raised multiple times we will pin these on the issues page to form an FAQ. 
+
+### Using the issue tracker
+
+See [here](https://help.github.com/articles/creating-an-issue/) for a guide on raising an issue. If possible please use the "Lables" function on the right hand side when creating an issue to flag as question/help wanted/enhancement etc.     
+
+## Project & Task Description
+
+[WP8 Summary](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Summary.md)
 
 [8.1 Cookbooks](https://github.com/GeoEra-GIP/WP8-Support/blob/master/Cookbooks.md)
 
