@@ -11,3 +11,5 @@ This work will commence within the Prototyping phase and continue into the Full 
 ## Deliverables
 
 D8.1 A series of cookbooks (documents in PDF format or similar) assisting data providers delivering data to the GIP [released iteratively with final version month 32]
+
+These can be found at https://geoera-gip-docs.readthedocs.io/en/latest/
