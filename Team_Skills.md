@@ -10,7 +10,7 @@ To gain an understanding of our skill set as a team we ran a short poll (https:/
 
 # Poll Results
 
-Matrices or results can be found - https://docs.google.com/spreadsheets/d/1ra_8zS61f6NWsN3QSOVY4tb2R8gWKUKJ3iMgbmmHiuQ/edit?usp=sharing 
+Matrices of results can be found - https://docs.google.com/spreadsheets/d/1ra_8zS61f6NWsN3QSOVY4tb2R8gWKUKJ3iMgbmmHiuQ/edit?usp=sharing 
 
 ## Which data models/schema do you have experience in using/implementing? 
 
