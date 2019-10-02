@@ -1,6 +1,6 @@
 # GeoERA Data provider support
 
-Provided by: UKRI, GEUS, TNO, GeoZS, CGS, BRGM, NERC, ISPRA, NGU, RBINS, GeoInform, HGI-CGS, 
+Provided by: UKRI, GEUS, TNO, GeoZS, CGS, BRGM, NERC, ISPRA, NGU, RBINS & HGI-CGS, 
 
 ## Objectives
 
