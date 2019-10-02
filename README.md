@@ -19,7 +19,9 @@ Cookbook documentation will published to https://geoera-gip-docs.readthedocs.io/
 
 Direct support is initally to be offered via email helpdesk or raising issues via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues). If issues are raised multiple times we will pin these on the issues page to form an FAQ.
 
-Emails to support@geoera.eu will create issue in the issue tracker via bot with email geoerasupport@fire.fundersclub.com  
+Emails to support@geoera.eu will create issue in the issue tracker via bot with email geoerasupport@fire.fundersclub.com 
+
+Summary of team skills  - https://github.com/GeoEra-GIP/WP8-Support/blob/master/Team_Skills.md
 
 ### Using the issue tracker
 
