@@ -1,8 +1,8 @@
 # GeoERA Data provider support
 
-Webage: https://geoera-gip.github.io/Project-Support-WP8/
+Webage: [Website](https://geoera-gip.github.io/Project-Support-WP8)
 
-Presentation: https://geoera-gip.github.io/Project-Support-WP8/presentations/2020-05-12/#/title
+Presentation: [WP8 Presentation](https://geoera-gip.github.io/Project-Support-WP8/presentations/2020-05-12/#/title)
 
 Provided by: UKRI, GEUS, TNO, GeoZS, CGS, BRGM, NERC, ISPRA, NGU, RBINS & HGI-CGS, 
 
