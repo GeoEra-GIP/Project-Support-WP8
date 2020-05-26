@@ -1,6 +1,6 @@
 # GeoERA Data provider support
 
-Webage: [Website](https://geoera-gip.github.io/Project-Support-WP8)
+Webage: [Website](https://geoera-gip.github.io/support/)
 
 Presentation: [WP8 Presentation](https://geoera-gip.github.io/Project-Support-WP8/presentations/2020-05-12/#/title)
 
