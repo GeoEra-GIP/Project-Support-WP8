@@ -17,9 +17,12 @@ To do this we will be providing a suite of support tools, channels and activitie
 - Creation of eLearning resources
 - Delivery of training workshops.
 
-## Support
+## Documentation
 
-Cookbook documentation will published to https://geoera-gip.github.io/documentation/
+- Using EGDI - http://egdi-public.gitlabpages.geus.dk/egdi-documentation/#/
+- Using MIcKA - https://czechgeologicalsurvey.github.io/MICKA-Docs/
+
+# Support
 
 Direct support is initally to be offered via email helpdesk or raising issues via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues). If issues are raised multiple times we will pin these on the issues page to form an FAQ.
 
