@@ -34,7 +34,9 @@ Summary of team skills  - https://github.com/GeoEra-GIP/WP8-Support/blob/master/
 
 ### Using the issue tracker
 
-See [here](https://help.github.com/articles/creating-an-issue/) for a guide on raising an issue. If possible please use the "Labels" function on the right hand side when creating an issue to flag as question/help wanted/enhancement etc.     
+See [here](https://help.github.com/articles/creating-an-issue/) for a guide on raising an issue. If possible please use the "Labels" function on the right hand side when creating an issue to flag as question/help wanted/enhancement etc.   
+
+Webinar on using the GitHub Issue tracker (25/02/2021) - https://youtu.be/Uc-66HAJ1Y8 
 
 ## Project & Task Description
 
