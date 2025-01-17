@@ -26,8 +26,6 @@ To do this we will be providing a suite of support tools, channels and activitie
 
 GeoERA user support issues were logged via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues).
 
-When new issues are created they will be handled by the WP8 support team accoding to the [issue handling procedure](IssueHandling.md)
-
 Summary of team skills  - https://github.com/GeoEra-GIP/WP8-Support/blob/master/Team_Skills.md
 
 ### Using the issue tracker
