@@ -24,9 +24,7 @@ To do this we will be providing a suite of support tools, channels and activitie
 
 # Support
 
-Direct support is initally to be offered via email helpdesk or raising issues via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues). If issues are raised multiple times we will pin these on the issues page to form an FAQ.
-
-Emails to support@geoera.eu will create issue in the issue tracker via bot with email geoerasupport@fire.fundersclub.com . Emails to the support address should not include anyone else in the CC field as replies to the email message by others in the CC list could include the support address as well and therefore create new issues themselves. If you want to inform others of the issue then send a separate email aferwards with the URL where the issue has been created.
+GeoERA user support issues were logged via the [WP8 Issue Tracker](https://github.com/GeoEra-GIP/WP8-Support/issues).
 
 When new issues are created they will be handled by the WP8 support team accoding to the [issue handling procedure](IssueHandling.md)
 
